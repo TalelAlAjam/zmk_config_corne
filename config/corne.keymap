@@ -50,7 +50,7 @@
             //                    | GUI |     | SPC |   | ENT |     | ALT |
 
             bindings = <
-&trans  &trans  &trans  &trans    &trans  &trans       &kp PLUS   &kp EQUAL       &kp UP_ARROW    &kp LPAR         &kp RPAR          &kp BSPC
+&trans  &trans  &trans  &trans    &trans  &trans       &kp PLUS   &kp EQUAL       &kp UP_ARROW    &kp LPAR         &kp RPAR          &kp DELETE
 &trans  &trans  &trans  &trans    &trans  &trans       &kp MINUS  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &kp LEFT_BRACKET  &kp RIGHT_BRACKET
 &trans  &trans  &trans  &trans    &trans  &trans       &kp UNDER  &trans          &kp LBRC        &kp RBRC         &kp LEFT_BRACE    &kp RIGHT_BRACE
                         &kp LGUI  &trans  &kp SPACE    &kp RET    &trans          &trans
